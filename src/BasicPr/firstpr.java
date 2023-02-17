@@ -1,5 +1,5 @@
 package BasicPr;
-
+//using conditional statements with simple example
 public class firstpr {
     public static void main(String ar[]){
         String name= "Java, Python, SQL";

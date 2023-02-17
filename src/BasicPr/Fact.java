@@ -1,7 +1,6 @@
 package BasicPr;
-
 import java.util.Scanner;
-
+//java program to find the factorial of a number
 public class Fact {
     public static void main(String[] args) {
         long factorial=1;

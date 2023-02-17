@@ -1,5 +1,5 @@
 package BasicPr;
-
+//java program to print the fibonacci series
 public class fibonacci {
     public static void main(String[] args) {
         int n=10, n1=0, n2=1, n3;

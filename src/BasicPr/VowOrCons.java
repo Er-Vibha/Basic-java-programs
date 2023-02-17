@@ -1,5 +1,6 @@
 package BasicPr;
 import java.util.Scanner;
+//java program to find the vowels and consonants
 public class VowOrCons {
     public static void main(String[] args) {
         Scanner a = new Scanner(System.in);

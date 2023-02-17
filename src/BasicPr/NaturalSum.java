@@ -1,7 +1,6 @@
 package BasicPr;
-
+//java program to find the sum of natural numbers
 import java.util.Scanner;
-
 public class NaturalSum {
     public static void main(String[] args) {
         int sum = 0;

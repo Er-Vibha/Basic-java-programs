@@ -1,7 +1,6 @@
 package BasicPr;
-
 import java.util.Scanner;
-
+//Java program for Simple Calculations
 public class calc {
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);

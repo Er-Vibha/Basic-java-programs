@@ -1,7 +1,6 @@
 package BasicPr;
-
+//java program to take the input from user
 import java.util.Scanner;
-
 public class input {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);

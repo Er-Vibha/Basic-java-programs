@@ -1,7 +1,6 @@
 package BasicPr;
-
+//java program to write table of any number
 import java.util.Scanner;
-
 public class table {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);

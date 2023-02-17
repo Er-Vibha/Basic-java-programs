@@ -1,7 +1,6 @@
 package BasicPr;
-
+//java program to find the quotient and remainder
 import java.util.Scanner;
-
 public class QuoAndRem {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);

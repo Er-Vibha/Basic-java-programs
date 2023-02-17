@@ -1,7 +1,6 @@
 package BasicPr;
-
+//java program to find the leap year
 import java.util.Scanner;
-
 public class leap {
     public static void main(String[] args) {
 //        Scanner s=new Scanner(System.in);

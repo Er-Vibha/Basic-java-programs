@@ -1,7 +1,6 @@
 package BasicPr;
-
+//java program to find the LCM
 import java.util.Scanner;
-
 public class LCM {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
