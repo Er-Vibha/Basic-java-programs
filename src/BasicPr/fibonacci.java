@@ -10,6 +10,5 @@ public class fibonacci {
             n2=n3;
             System.out.print(" "+n3);
         }
-
     }
 }

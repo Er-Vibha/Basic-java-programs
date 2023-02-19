@@ -10,5 +10,5 @@ class Character {
             else
                 System.out.println("Not character");
         }
-    }
+}
 

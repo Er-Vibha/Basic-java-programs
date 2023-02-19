@@ -5,6 +5,5 @@ public class Alphabets {
        for(char c='A';c<='Z';c++){
            System.out.println(c+ " ");
        }
-
     }
 }

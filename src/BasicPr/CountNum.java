@@ -8,6 +8,5 @@ public class CountNum {
             count++;
         }
         System.out.println(count);
-
     }
 }
